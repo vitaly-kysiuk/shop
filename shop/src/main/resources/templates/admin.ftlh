@@ -5,10 +5,9 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Shop</title>
+    <title>Admin</title>
 </head>
 <body>
-<h1 align="center">Інтернет-магазин по продажу комплектуючим для комп'ютера</h1><hr/>
-<button type="button"><a href=/>Повернутись назад</a></button>
+<h1>Для адміну</h1>
 </body>
 </html>
