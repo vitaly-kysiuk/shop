@@ -9,10 +9,17 @@
 </head>
 <body>
 <h1 align="center">Інтернет-магазин по продажу комплектуючим для комп'ютера</h1><hr/>
-<button type="button"><a href=/product>Продукти</a></button>
+<div style="text-align: center;"><button type="button"><a href=/product>Продукти</a></button>
 <button type="button"><a href=/product>Клієнти</a></button>
 <button type="button"><a href=/product>Замовлення</a></button>
 <button type="button"><a href=/product>Постачальники</a></button>
-<button type="button"><a href=/product>Налаштування</a></button>
+<button type="button"><a href=/product>Налаштування</a></button></div>
 </body>
 </html>
+
+
+
+
+<style type="text/css">
+    body {background-color: gray;}
+</style>
